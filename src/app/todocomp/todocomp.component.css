@@ -1,0 +1,9 @@
+.checkedText{
+  
+    color: grey;
+    text-decoration: line-through; 
+}
+.unCheckedText{
+    color: black;
+    text-decoration: none;
+}
